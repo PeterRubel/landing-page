@@ -1,0 +1,53 @@
+section.header {
+    background-color: aliceblue;
+    position: sticky;
+}
+
+div.headerBottom {
+    margin: auto;
+    margin-left: 1450px;
+    margin-top: -50px;
+}
+
+div.headerBottom :hover {
+    background-color: rgb(236, 72, 214);
+    opacity: 0.8;
+    color: #00252e;
+}
+
+section.two {
+    margin-top: 300px;
+}
+
+h1.one {
+    color: #00252e;
+}
+
+h1.two {
+    font-size: 100px;
+    color: #00252e;
+}
+
+h1.three {
+    font-size: 50px;
+    color: #00252e;
+}
+
+section.three {
+    margin-top: 150px;
+    margin-left: 300px;
+}
+
+section.four {
+    margin-top: 200px;
+}
+
+section.five {
+    margin-top: 200px;
+}
+
+section.sex {
+    margin-top: 150px;
+    background-color: #00252e;
+    color: aliceblue;
+}
